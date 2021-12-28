@@ -1,0 +1,7 @@
+D:\LineCounter\LineCounter\bin\Release\LineCounter.exe
+D:\LineCounter\LineCounter\bin\Release\LineCounter.pdb
+D:\LineCounter\LineCounter\obj\x86\Release\LineCounter.FrmLineCounter.resources
+D:\LineCounter\LineCounter\obj\x86\Release\LineCounter.Properties.Resources.resources
+D:\LineCounter\LineCounter\obj\x86\Release\LineCounter.csproj.GenerateResource.Cache
+D:\LineCounter\LineCounter\obj\x86\Release\LineCounter.exe
+D:\LineCounter\LineCounter\obj\x86\Release\LineCounter.pdb

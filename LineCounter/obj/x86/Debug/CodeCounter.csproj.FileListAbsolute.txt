@@ -1,0 +1,9 @@
+D:\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+D:\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+D:\CodeCounter\CodeCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.FrmCodeCounter.resources
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.Properties.Resources.resources
+D:\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CodeCounter\CodeCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.exe
+D:\CodeCounter\CodeCounter\obj\x86\Debug\CodeCounter.pdb
